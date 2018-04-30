@@ -1,0 +1,7 @@
+C:\Users\rjkgi\source\repos\Capstone1_PigLatin\Capstone1_PigLatin\obj\Debug\Capstone1_PigLatin.csprojResolveAssemblyReference.cache
+C:\Users\rjkgi\source\repos\Capstone1_PigLatin\Capstone1_PigLatin\obj\Debug\Capstone1_PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\rjkgi\source\repos\Capstone1_PigLatin\Capstone1_PigLatin\bin\Debug\Capstone1_PigLatin.exe.config
+C:\Users\rjkgi\source\repos\Capstone1_PigLatin\Capstone1_PigLatin\bin\Debug\Capstone1_PigLatin.exe
+C:\Users\rjkgi\source\repos\Capstone1_PigLatin\Capstone1_PigLatin\bin\Debug\Capstone1_PigLatin.pdb
+C:\Users\rjkgi\source\repos\Capstone1_PigLatin\Capstone1_PigLatin\obj\Debug\Capstone1_PigLatin.exe
+C:\Users\rjkgi\source\repos\Capstone1_PigLatin\Capstone1_PigLatin\obj\Debug\Capstone1_PigLatin.pdb
